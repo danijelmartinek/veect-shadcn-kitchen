@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "name": "Landing page",
+  "frames": [
+    {
+      "id": "frm_6er8jd0e",
+      "type": "frame",
+      "name": "Frame 1",
+      "viewport": {
+        "width": 1440
+      },
+      "canvas": {
+        "x": 0,
+        "y": 0
+      },
+      "children": [
+        {
+          "id": "el_5qs66j9s",
+          "type": "element",
+          "component": "src/components/ui/alert.tsx#Alert",
+          "props": {
+            "variant": {
+              "kind": "lit",
+              "value": "destructive"
+            }
+          },
+          "slots": {
+            "children": [
+              {
+                "id": "txt_dn9v84oj",
+                "type": "text",
+                "value": "Test"
+              }
+            ]
+          }
+        },
+        {
+          "id": "el_btchosb4",
+          "type": "element",
+          "component": "src/components/ui/button.tsx#Button",
+          "props": {
+            "size": {
+              "kind": "lit",
+              "value": "lg"
+            },
+            "asChild": {
+              "kind": "lit",
+              "value": false
+            },
+            "variant": {
+              "kind": "lit",
+              "value": "default"
+            }
+          },
+          "slots": {
+            "children": [
+              {
+                "id": "txt_4k7efsim",
+                "type": "text",
+                "value": "Test button"
+              }
+            ]
+          }
+        },
+        {
+          "id": "el_i7pd9er8",
+          "type": "element",
+          "component": "src/components/ui/select.tsx#SelectScrollDownButton",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "id": "frm_girik6c5",
+      "type": "frame",
+      "name": "Frame 2",
+      "viewport": {
+        "width": 390
+      },
+      "canvas": {
+        "x": 1520,
+        "y": 0
+      },
+      "children": []
+    }
+  ]
+}
