@@ -1,0 +1,8 @@
+{
+  "components": ["src/components/**/*.tsx"],
+  "exclude": ["**/*.test.tsx", "**/*.stories.tsx", "**/*.spec.tsx"],
+  "framework": "vite-react",
+  "tokens": {
+    "tailwind": true
+  }
+}
