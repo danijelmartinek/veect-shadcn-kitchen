@@ -1,6 +1,13 @@
 {
   "version": 1,
   "designs": {
+    "landing-page": {
+      "doc": ".veect/designs/landing-page.json",
+      "files": {
+        ".veect/designs/landing-page.json": "sha256-c03efbbfd4e095b688c8d992268c4bc88d60fccdcc16cadc2e1de0e6b60c6c35",
+        "__veect__/landing-page/Frame1.tsx": "sha256-1c0db09a7c23587cd29632ccfc49df58711db7f08046e0086b82b1169dbe0e13"
+      }
+    },
     "test": {
       "doc": ".veect/designs/test.json",
       "files": {

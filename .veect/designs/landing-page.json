@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "name": "Landing page",
+  "frames": [
+    {
+      "id": "frm_ouncziml",
+      "type": "frame",
+      "name": "Frame 1",
+      "viewport": {
+        "width": 1440
+      },
+      "canvas": {
+        "x": 0,
+        "y": 0
+      },
+      "children": []
+    }
+  ]
+}
