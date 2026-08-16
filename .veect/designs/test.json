@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 2,
+  "name": "Test",
+  "frames": [
+    {
+      "id": "frm_rh9v1yrv",
+      "type": "frame",
+      "name": "Frame 1",
+      "viewport": {
+        "width": 1440
+      },
+      "canvas": {
+        "x": 0,
+        "y": 0
+      },
+      "children": [
+        {
+          "id": "prm_jb2ukui6",
+          "type": "primitive",
+          "tag": "div",
+          "props": {},
+          "slots": {
+            "children": [
+              {
+                "id": "el_ib9g960i",
+                "type": "element",
+                "component": "src/components/ui/button.tsx#Button",
+                "props": {
+                  "size": {
+                    "kind": "lit",
+                    "value": "default"
+                  },
+                  "asChild": {
+                    "kind": "lit",
+                    "value": false
+                  },
+                  "variant": {
+                    "kind": "lit",
+                    "value": "default"
+                  }
+                },
+                "slots": {
+                  "children": [
+                    {
+                      "id": "txt_32hj61do",
+                      "type": "text",
+                      "value": "Some Button"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "prm_ensxwbye",
+                "type": "primitive",
+                "tag": "p",
+                "props": {},
+                "slots": {
+                  "children": [
+                    {
+                      "id": "txt_cq6u5cd2",
+                      "type": "text",
+                      "value": "Text"
+                    }
+                  ]
+                },
+                "style": {
+                  "color": {
+                    "literal": "white"
+                  }
+                }
+              }
+            ]
+          },
+          "style": {
+            "color": {
+              "token": "--color-accent-foreground"
+            },
+            "height": {
+              "literal": "150px"
+            },
+            "display": {
+              "literal": "inline-block"
+            },
+            "marginTop": {
+              "literal": "200"
+            },
+            "background": {
+              "literal": "#ff0000"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

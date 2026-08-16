@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "designs": {
+    "test": {
+      "doc": ".veect/designs/test.json",
+      "files": {
+        ".veect/designs/test.json": "sha256-40a3058b1601425d55111bcb13b53704d46bbe001de957cec39a0ec671be5a56",
+        "__veect__/test/Frame1.tsx": "sha256-79d90ae9e1b46c4acb0317fb1aa856b7e0aa1596d9417e6f9359ab581feb8eda"
+      }
+    }
+  }
+}
