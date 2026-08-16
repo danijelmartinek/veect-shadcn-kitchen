@@ -13,7 +13,100 @@
         "x": 0,
         "y": 0
       },
-      "children": []
+      "children": [
+        {
+          "id": "prm_fe2q3cy7",
+          "type": "primitive",
+          "tag": "div",
+          "props": {},
+          "slots": {
+            "children": [
+              {
+                "id": "prm_dqg33hfp",
+                "type": "primitive",
+                "tag": "div",
+                "props": {},
+                "slots": {
+                  "children": [
+                    {
+                      "id": "el_q0lnmd4t",
+                      "type": "element",
+                      "component": "src/components/ui/button.tsx#Button",
+                      "props": {
+                        "size": {
+                          "kind": "lit",
+                          "value": "default"
+                        },
+                        "asChild": {
+                          "kind": "lit",
+                          "value": false
+                        },
+                        "variant": {
+                          "kind": "lit",
+                          "value": "default"
+                        }
+                      },
+                      "slots": {
+                        "children": [
+                          {
+                            "id": "txt_17g6l8rk",
+                            "type": "text",
+                            "value": "Test button"
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "id": "prm_6y15td28",
+                      "type": "primitive",
+                      "tag": "div",
+                      "props": {},
+                      "slots": {
+                        "children": [
+                          {
+                            "id": "el_aph78pze",
+                            "type": "element",
+                            "component": "src/components/ui/label.tsx#Label",
+                            "props": {},
+                            "slots": {
+                              "children": [
+                                {
+                                  "id": "txt_khlaj8v8",
+                                  "type": "text",
+                                  "value": "Antonija je najbolja"
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      "style": {
+                        "marginTop": {
+                          "literal": "2em"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "style": {
+            "height": {
+              "literal": "100vh"
+            },
+            "display": {
+              "literal": "flex"
+            },
+            "alignItems": {
+              "literal": "center"
+            },
+            "justifyContent": {
+              "literal": "center"
+            }
+          }
+        }
+      ]
     }
   ]
 }

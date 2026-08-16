@@ -4,8 +4,8 @@
     "landing-page": {
       "doc": ".veect/designs/landing-page.json",
       "files": {
-        ".veect/designs/landing-page.json": "sha256-c03efbbfd4e095b688c8d992268c4bc88d60fccdcc16cadc2e1de0e6b60c6c35",
-        "__veect__/landing-page/Frame1.tsx": "sha256-1c0db09a7c23587cd29632ccfc49df58711db7f08046e0086b82b1169dbe0e13"
+        ".veect/designs/landing-page.json": "sha256-6f45f02fc35396007897070315266df0de2063af8a97134847b7a00977d3c1fc",
+        "__veect__/landing-page/Frame1.tsx": "sha256-cf057be0bd0cb4b168a01eb2fb599fe0613beb17e01db96aded63f7fae872864"
       }
     },
     "test": {
