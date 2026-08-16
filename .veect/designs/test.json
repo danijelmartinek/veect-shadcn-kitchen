@@ -48,44 +48,18 @@
                     }
                   ]
                 }
-              },
-              {
-                "id": "prm_ensxwbye",
-                "type": "primitive",
-                "tag": "p",
-                "props": {},
-                "slots": {
-                  "children": [
-                    {
-                      "id": "txt_cq6u5cd2",
-                      "type": "text",
-                      "value": "Text"
-                    }
-                  ]
-                },
-                "style": {
-                  "color": {
-                    "literal": "white"
-                  }
-                }
               }
             ]
           },
           "style": {
-            "color": {
-              "token": "--color-accent-foreground"
-            },
             "height": {
               "literal": "150px"
             },
             "display": {
-              "literal": "inline-block"
+              "literal": "grid"
             },
             "marginTop": {
               "literal": "200"
-            },
-            "background": {
-              "literal": "#ff0000"
             }
           }
         }

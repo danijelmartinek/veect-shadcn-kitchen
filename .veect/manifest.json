@@ -4,8 +4,8 @@
     "test": {
       "doc": ".veect/designs/test.json",
       "files": {
-        ".veect/designs/test.json": "sha256-40a3058b1601425d55111bcb13b53704d46bbe001de957cec39a0ec671be5a56",
-        "__veect__/test/Frame1.tsx": "sha256-79d90ae9e1b46c4acb0317fb1aa856b7e0aa1596d9417e6f9359ab581feb8eda"
+        ".veect/designs/test.json": "sha256-f3b08ee76eaef9f04bdd1b608bb4df3bb7ef7eb639e79e746dbc1acfad96540a",
+        "__veect__/test/Frame1.tsx": "sha256-0549c3fba501d13c4da0b5e4e32fe3adccf928a1877393298ec66b824f65e894"
       }
     }
   }

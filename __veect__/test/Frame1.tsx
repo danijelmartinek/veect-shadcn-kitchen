@@ -6,11 +6,10 @@ import { Button } from "@/components/ui/button";
 export default function Frame1() {
   return (
     <>
-      <div className="h-[150px] inline-block mt-[200] bg-[#ff0000] text-[color:var(--color-accent-foreground)]">
+      <div className="h-[150px] grid mt-[200]">
         <Button size="default" asChild={false} variant="default">
           Some Button
         </Button>
-        <p className="text-[color:white]">Text</p>
       </div>
     </>
   );
